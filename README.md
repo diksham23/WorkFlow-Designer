@@ -7,14 +7,13 @@ Developed as part of the **Python Mini Project** for academic evaluation.
 
 ---
 
-## 👩‍💻 Team Members
+| Name | Contribution |
+|------|---------------|
+| **Diksha More** | Authentication, documentation, UI/UX |
+| **Janhavi Jadhav** | Backend |
+| **Shravanee Kumbhar** | Frontend |
+| **Sejal Wable** | Database |
 
-| Name | 
-|------|
-| **Diksha More** | 
-| **Janhavi Jadhav** |
-| **Shravanee Kumbhar** | 
-| **Sejal Wable** | 
 ---
 
 ## 💡 Project Overview
